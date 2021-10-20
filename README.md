@@ -1,2 +1,2 @@
-# c-opensource-packages
-Here you will find C/C++ packages for free.
+# C/C++ OpenSource Packages (COSP)
+A Git repository which contains C/C++ Packages.
